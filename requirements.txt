@@ -3,9 +3,12 @@ numpy<2.0.0
 opencv_python
 loguru
 tqdm
-thop
+thop==0.1.1.post2209072238
 ninja
 tabulate
+torch==2.2.1
+torchaudio==2.2.1
+torchvision==0.17.1
 psutil
 tensorboard
 
